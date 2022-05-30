@@ -16,8 +16,8 @@ The debug machine has three basic commands. `out, debug, warn and info` They all
 
 To use, simply use
 
-`d.out ("Hello"); //normal output, new line ----- `
-`d.out ("Hello", false); //normal output, no new line ----- `
+`d.out ("Hello"); //normal output, new line ----- <br /> `
+`d.out ("Hello", false); //normal output, no new line ----- <br /> `
 `d.warn ("Warning"); //normal warning [red], new line ----- `
 `d.warn ("Warning", false); //normal warning, no new line ----- `
 `d.info ("Info"); //normal info [cyan], new line ----- `
